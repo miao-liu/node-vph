@@ -1,0 +1,95 @@
+{
+	"data":{
+		"types": [
+			{
+				"img": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2021/12/09/32/1639043481239_224x242_90.png",
+				"name": "时尚女装",
+				"to": ""
+			},
+			{
+				"img": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2021/12/06/35/1638772988903_224x242_90.png",
+				"name": "美妆个护",
+				"to": ""
+			},
+			{
+				"img": "https://h2.appsimg.com/b.appsimg.com/upload/momin/2021/12/06/3/1638773029009_224x242_90.png",
+				"name": "鞋靴箱包",
+				"to": ""
+			}
+		],
+		"pros": [
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/10/3/ias_b9a49ce47971d4602a00825746defdfd_121x121_90.png",
+				"name": "型格男装",
+				"to": "",
+				"discount": "男卫衣79元抢"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/10/3/ias_b9a49ce47971d4602a00825746defdfd_121x121_90.png",
+				"name": "运动户外",
+				"to": "",
+				"discount": "跑步鞋仅88元"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/10/3/ias_b9a49ce47971d4602a00825746defdfd_121x121_90.png",
+				"name": "型格男装",
+				"to": "",
+				"discount": "男卫衣79元抢"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/10/3/ias_b9a49ce47971d4602a00825746defdfd_121x121_90.png",
+				"name": "数码家电",
+				"to": "",
+				"discount": "3.4折起"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/03/30/145/ias_39c9b7ca06db13ad81f8e316c45134d6_121x121_90.png",
+				"name": "母婴童装",
+				"to": "",
+				"discount": "57元起"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/03/30/145/ias_39c9b7ca06db13ad81f8e316c45134d6_121x121_90.png",
+				"name": "母婴童装",
+				"to": "",
+				"discount": "57元起"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/10/3/ias_b9a49ce47971d4602a00825746defdfd_121x121_90.png",
+				"name": "型格男装",
+				"to": "",
+				"discount": "男卫衣79元抢"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/10/3/ias_b9a49ce47971d4602a00825746defdfd_121x121_90.png",
+				"name": "运动户外",
+				"to": "",
+				"discount": "跑步鞋仅88元"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/10/3/ias_b9a49ce47971d4602a00825746defdfd_121x121_90.png",
+				"name": "型格男装",
+				"to": "",
+				"discount": "男卫衣79元抢"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/04/18/184/ias_6b0fe7499d42ec4a70f6b4dbd2b8e769_121x121_90.png",
+				"name": "手表配饰",
+				"to": "",
+				"discount": "石英表2折抢"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/10/16/132/ias_868a7beb67547d0e40ff5b37a50a9262_121x121_90.png",
+				"name": "3折疯抢",
+				"to": "",
+				"discount": "500+大牌直降"
+			},
+			{
+				"img": "https://h2.appsimg.com/a.appsimg.com/upcb/2021/05/29/177/ias_ea3e242c495dc14e272c7518298d0515_121x121_90.png",
+				"name": "食品营养",
+				"to": "",
+				"discount": "4.2折起"
+			}
+		]
+	}
+}
