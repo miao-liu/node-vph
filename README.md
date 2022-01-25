@@ -3,4 +3,4 @@ vue-vph的node服务器
 
 # yarn install
 
-# yarn serve
+# yarn nodemon
